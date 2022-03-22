@@ -109,7 +109,7 @@ You MUST:
 
 <h3>2)Performance - Data Preprocessing (4 marks)</h3>
 <p><b>[related to Section 1.1 and 1.2]</b><br/>
-You are conduct the personality classification performance evaluation by using different preprocessing techniques. <br/>
+You are conduct the personality classification performance evaluation (with testing dataset) by using different preprocessing techniques. <br/>
 You are to represent the f1 <b><i>[Lab4 and Lecture 5]</i></b> of your model in the table <b>(Explain the performance)</b></li>
 You MUST:
 <ul>
@@ -124,7 +124,7 @@ You MUST:
 
 <h3>3)Performance Evaluation - Different Input (4 marks)</h3>
 <p><b>[related to Section 2.1, 2.2, and 2.3]</b><br/>
-You are conduct the personality classification performance evaluation by using different input. <br/>
+You are conduct the personality classification performance evaluation (with testing dataset) by using different input. <br/>
 You are to represent the f1 <b><i>[Lab4 and Lecture 5]</i></b> of your model in the table <b>(Explain the performance)</b></li>
 You MUST:
 <ul>
@@ -140,7 +140,7 @@ You MUST:
 
 <h3>4)Performance Evaluation - Different Sequence Models (3 marks)</h3>
 <p><b>[related to Section 3.1 and 3.2]</b><br/>
-You are conduct the personality classification performance evaluation by using different sequence models. <br/>
+You are conduct the personality classification performance evaluation (with testing dataset) by using different sequence models. <br/>
 You are to represent the f1 <b><i>[Lab4 and Lecture 5]</i></b> of your model in the table <b>(Explain the performance)</b><br/>
 You MUST:
 <ul>
@@ -155,7 +155,7 @@ You MUST:
 
 <h3>5)Performance Evaluation - Hyperparameter Testing (2 marks)</h3>
 <p><b>[related to Section 1,2, and 3]</b><br/>
-<p>You are to provide the line graph, which shows the hyperparameter testing (with the test dataset) and explain the optimal number of epochs based on the learning rate you choose. You can have multiple graphs with different learning rates. In the graph, the x-axis would be # of epoch and the y-axis would be the f1.  <b>(Explain the performance)</b></p>
+<p>You are to provide the line graph, which shows the hyperparameter testing (with the testing dataset) and explain the optimal number of epochs based on the learning rate you choose. You can have multiple graphs with different learning rates. In the graph, the x-axis would be # of epoch and the y-axis would be the f1.  <b>(Explain the performance)</b></p>
 <b>NOTE: You would not receive any mark in this section 4.5, if you do not implement the section 1,2, and 3. </b>
 <b><i>The sample visualisation can be found in the Lecture 5. </i></b>
 <br/>
