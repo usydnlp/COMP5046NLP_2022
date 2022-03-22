@@ -169,7 +169,7 @@ You MUST:
 <p>Based on the evaluation, You are required to design a user interface so that user can input a textual sentence via the colab form fields user interface to get the classification result from your best trained model.<br/>
 <b>NOTE: In this section, you need to develop the user interface that can be runnable as a stand-alone testing program. You MUST put all code parts of your best model (including data preprocessing techniques, word embedding model, and sequence model). You would not receive any mark in this section 5, if you do not implement any classification models to classify the personality type in Section 1,2, and 3. <i>[Lab 5]</i></b>
 </p>
-<img src="https://github.com/usydnlp/COMP5046NLP_2022/blob/main/sample%20result.PNG" width="300px"/>
+<img src="https://github.com/usydnlp/COMP5046NLP_2022/blob/main/sample%20result.png" width="300px"/>
 
 <br/>
 <hr>
