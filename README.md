@@ -51,7 +51,7 @@ In this Data Preprocessing section, you are required to complete the following s
 <h2>2. Input Representation</h2>
 <p>In this section, you are to implement three input representation components, including 1) Word Embedding Construction Module, 2)Pretrained Word Embedding Module, and 3) Input Concatenation Module. <i>For training, you are free to choose hyperparameters <b><i>[Lab2,Lab4,Lab5]</i></b> (e.g. dimension of embeddings, learning rate, epochs, etc.).</i></p>
 
-<img src="https://github.com/usydnlp/COMP5046_2022/blob/main/architecture.png" width="500px"/>
+<img src="https://github.com/usydnlp/COMP5046NLP_2022/blob/main/architecture.png" width="500px"/>
 <p>The detailed information about model architecture can be found in the <b><i>[Lecture5]</i></b></p>
 
 <h3>1)Word Embedding Construction</h3>
@@ -169,7 +169,7 @@ You MUST:
 <p>Based on the evaluation, You are required to design a user interface so that user can input a textual sentence via the colab form fields user interface to get the classification result from your best trained model.<br/>
 <b>NOTE: In this section, you need to develop the user interface that can be runnable as a stand-alone testing program. You MUST put all code parts of your best model (including data preprocessing techniques, word embedding model, and sequence model). You would not receive any mark in this section 5, if you do not implement any classification models to classify the personality type in Section 1,2, and 3. <i>[Lab 5]</i></b>
 </p>
-<img src="https://github.com/usydnlp/COMP5046_2022/blob/main/sample%20result.PNG" width="300px"/>
+<img src="https://github.com/usydnlp/COMP5046NLP_2022/blob/main/sample%20result.PNG" width="300px"/>
 
 <br/>
 <hr>
